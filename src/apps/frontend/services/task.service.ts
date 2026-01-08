@@ -1,5 +1,4 @@
 import APIService from 'frontend/services/api.service';
-import { ApiResponse } from 'frontend/types/service-response';
 
 // Define types locally or in types/task.ts
 export interface Task {
